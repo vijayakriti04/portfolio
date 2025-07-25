@@ -44,22 +44,22 @@ const Contributions = () => {
 
   const impactStats = [
     {
-      number: "100+",
+      number: "50+",
       label: "Students Helped",
       description: "Through teaching support"
     },
     {
-      number: "50+",
+      number: "200+",
       label: "Blood Donors",
       description: "Assisted in camps"
     },
     {
-      number: "200+",
+      number: "100+",
       label: "People Trained",
-      description: "In first aid awareness"
+      description: "In first aid awareness camp"
     },
     {
-      number: "3+",
+      number: "1+",
       label: "Years Active",
       description: "NSS participation"
     }
